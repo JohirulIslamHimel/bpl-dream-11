@@ -57,7 +57,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1450000,
-    "playerImage": "https://example.com/images/rohit-sharma.jpg"
+    "playerImage": "https://i.ibb.co.com/BVqKJqBb/rohit.jpg"
   },
   {
     "playerName": "David Warner",
@@ -67,7 +67,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1350000,
-    "playerImage": "https://example.com/images/david-warner.jpg"
+    "playerImage": "https://i.ibb.co.com/kgKMJLcS/david.jpg"
   },
   {
     "playerName": "Jos Buttler",
@@ -77,7 +77,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "N/A",
     "price": 1500000,
-    "playerImage": "https://example.com/images/jos-buttler.jpg"
+    "playerImage": "https://i.ibb.co.com/60W4phcC/buttler.jpg"
   },
   {
     "playerName": "Trent Boult",
@@ -87,7 +87,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "price": 1200000,
-    "playerImage": "https://example.com/images/trent-boult.jpg"
+    "playerImage": "https://i.ibb.co.com/LX9h93Yr/boult.webp"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -97,7 +97,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": 1550000,
-    "playerImage": "https://example.com/images/jasprit-bumrah.jpg"
+    "playerImage": "https://i.ibb.co.com/vprHJpP/bumrah.jpg"
   },
   {
     "playerName": "Steve Smith",
@@ -107,7 +107,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1400000,
-    "playerImage": "https://example.com/images/steve-smith.jpg"
+    "playerImage": "https://i.ibb.co.com/TBt99D4M/smith.webp"
   },
   {
     "playerName": "Rashid Khan",
@@ -117,6 +117,6 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak googly",
     "price": 1500000,
-    "playerImage": "https://example.com/images/rashid-khan.jpg"
+    "playerImage": "https://i.ibb.co.com/HLFccF3z/rashid.jpg"
   }
 ]
