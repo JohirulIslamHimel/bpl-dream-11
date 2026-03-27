@@ -7,7 +7,7 @@ import { ToastContainer } from "react-toastify";
 import Footer from "./components/footer/Footer";
 
 const fetchPlayer = async () => {
-  const res = await fetch("/public/data.json");
+  const res = await fetch("/data.json");
   return res.json();
 };
 
